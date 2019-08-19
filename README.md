@@ -1,8 +1,8 @@
 **https://not-face-blind.herokuapp.com/**
 
-Not Face Blind is a simple web application that detects faces in images. In order to use the application, users must register, and login upon subsequent visits to the site. However, **USER DATA IS NOT USED FOR ANYTHING**. Feel free to use fake information.
+**Not Face Blind** is a simple web application that detects faces in images. In order to use the application, users must register, and login upon subsequent visits to the site. However, **USER DATA IS NOT USED FOR ANYTHING**. Feel free to use fake information.
 
-*This is the back-end repository. For the front-end, see: [not-face-blind](https://github.com/spencerericfong/not-face-blind).*
+*This is the **back-end** repository. For the front-end, see: [not-face-blind](https://github.com/spencerericfong/not-face-blind).*
 
 ---
 
