@@ -6,4 +6,4 @@
 
 ---
 
-The back-end of this project includes a RESTful API as well as a relational database for users and logins. The server was built in Javascript, using **Node.js** and **Express.js**. The database stores user and login information, and was created using **PostgreSQL**. The site itself is hosted and deployed on **Heroku**.
+The back-end of this project includes a RESTful API as well as a relational database for users and logins. The server was built in Javascript, using **Node.js** and **Express.js**. The database stores user and login information, and was created using **PostgreSQL**. The site itself is hosted and deployed on [**Heroku**](https://heroku.com/).
