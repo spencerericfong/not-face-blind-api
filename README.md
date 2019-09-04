@@ -7,3 +7,7 @@
 ---
 
 The back-end of this project includes a RESTful API as well as a relational database for users and logins. The server was built in Javascript, using **Node.js** and **Express.js**. The database stores user and login information, and was created using **PostgreSQL**. The site itself is hosted and deployed on [**Heroku**](https://heroku.com/).
+
+---
+
+*Unfortunately, there is a minor issue with the site on some mobile devices where uploaded images appear in the incorrect orientation. This is not an application issue, but a browser issue where the browser incorrectly reads or ignores the image file's EXIF data, which contains information about the correct image orientation. However, the application functionality is unaffected and will still work as intended. Sorry for the inconvenience!*
